@@ -1,0 +1,12 @@
+{
+  "id": "test-d6",
+  "name": "Sistema de Teste D6",
+  "success_threshold": 6,
+  "dice_type": "d6",
+  "schema": {
+    "attributes": [
+      "Força",
+      "Agilidade"
+    ]
+  }
+}
